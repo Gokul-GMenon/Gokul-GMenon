@@ -1,10 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### I'm Gokul G Menon. I'm a passionate computer science aspirant currently pursuing my undergrad. I like working on all almost any coding projects and expanding my knowledge. I'm most excited by ML tho.
-<!--
-**Gokul-GMenon/Gokul-GMenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### I'm Gokul G Menon. I'm a passionate computer science aspirant currently pursuing my undergrad. I like working on all almost any coding projects and expanding my knowledge. I'm most excited by ML tho.
 
 - 🔭 I’m currently working on ... Expanding my knowledge in ML by building various classification and regression models.
 - 🌱 I’m currently learning ... Voice classification, NLP, PyTorch etc.
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Any help with ML projects, getting started in ML, Python, C, C++, Django, OpenCV, doing colabs...
 - 📫 How to reach me: ... Email me @gokulgovindmenon@gmail.com
 - ⚡ Fun fact: ... I do a lot more than coding too.
--->
