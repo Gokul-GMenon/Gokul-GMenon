@@ -1,6 +1,6 @@
 ## Hola 👋
 
-#### I'm Gokul G Menon. I'm a passionate computer science aspirant currently pursuing my undergrad. I like working on all almost any coding projects and expanding my knowledge. I'm most excited by ML though.
+#### I'm Gokul. I'm a passionate computer science aspirant currently pursuing my undergrad. I like working on all almost any coding projects and expanding my knowledge. I'm most excited by ML though.
 
 - 🔭 I’m currently working on ... Expanding my knowledge in ML by building various classification and regression models.
 - 🌱 I’m currently learning ... Voice classification, NLP, PyTorch etc.
