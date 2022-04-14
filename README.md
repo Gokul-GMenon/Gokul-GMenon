@@ -10,4 +10,4 @@
 - 📫 How to reach me ... Email me @gokulgovindmenon@gmail.com
 - ⚡ Fun fact: ... I do a lot more than coding too :sweat_smile:
 
-- :muscle: Checkout my Resume - (https://www.bit.ly/3s3SreS "here")
+- :muscle: Checkout my Resume [here.](https://www.bit.ly/3s3SreS)
