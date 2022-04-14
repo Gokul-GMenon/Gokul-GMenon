@@ -1,6 +1,6 @@
 ## Hola 👋
 
-#### I'm Gokul. I'm a passionate computer science aspirant currently pursuing my undergrad. I like working on all almost any coding projects and expanding my knowledge. I'm most excited by ML though. Checkout my Resume - bit.ly/3s3SreS
+#### I'm Gokul. I'm a passionate computer science aspirant currently pursuing my undergrad. I like working on all almost any coding projects and expanding my knowledge. I'm most excited by ML though. 
 
 - 🔭 I’m currently working on ... Implementing ML research papers
 - 🌱 I’m currently learning ... Voice classification, research paper implementation works etc.
@@ -9,3 +9,5 @@
 - 💬 Ask me about ... Any help with ML projects, getting started in ML, Python, C, C++, Django, OpenCV, doing colabs... :stuck_out_tongue_winking_eye:
 - 📫 How to reach me ... Email me @gokulgovindmenon@gmail.com
 - ⚡ Fun fact: ... I do a lot more than coding too :sweat_smile:
+
+- :muscle: Checkout my Resume - (https://www.bit.ly/3s3SreS "here")
