@@ -11,3 +11,12 @@
 - ⚡ Fun fact: ... I do a lot more than coding too :sweat_smile:
 
 - :muscle: Checkout my Resume [here.](https://www.bit.ly/3s3SreS)
+
+![linkedin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokul-GMenon&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-GMenon&layout=compact&theme=radical)](https://github.com/Ashish-Abraham/github-readme-stats)  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
