@@ -12,11 +12,15 @@
 
 - :muscle: Checkout my Resume [here.](https://www.bit.ly/3s3SreS)
 
-![linkedin](https://img.shields.io/badge/Linked-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<a href="https://www.linkedin.com/in/gokul-g-menon-612580203/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xtenzq" width="22px" /></a>
+<a href="https://www.instagram.com/_g_kul_" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/backup/icons/instagram.svg" alt="xtenzq" width="22px" /></a></p> <br />
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Gokul-GMenon}&theme=vue)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul-GMenon&theme=gruvbox)  
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-GMenon&theme=gruvbox)  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
