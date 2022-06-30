@@ -18,6 +18,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-GMenon&layout=compact&theme=radical)](https://github.com/Ashish-Abraham/github-readme-stats)   -->
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
+![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Gokul-GMenon}&theme=vue})
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
