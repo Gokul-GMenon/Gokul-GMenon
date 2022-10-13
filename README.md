@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ... Well Paid Ml works (computer vision would be awesome) :relieved:
 - 💬 Ask me about ... Any help with ML projects, getting started in ML, Python, C, C++, Django, OpenCV, doing colabs... :stuck_out_tongue_winking_eye:
 - ⚡ Fun fact: ... I do a lot more than coding too :sweat_smile:
-- :muscle: Checkout my Resume [here.](https://www.bit.ly/3s3SreS)
+- :muscle: Checkout my Resume [here.](https://bit.ly/gokuls-resume)
 - 📫 Reach me at:  
 
 <a href="https://www.linkedin.com/in/gokul-g-menon-612580203/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xtenzq" width="100px" /></a>
