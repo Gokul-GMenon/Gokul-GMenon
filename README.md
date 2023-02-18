@@ -1,6 +1,10 @@
-## Hola 👋
+# Hola 👋
+
+<br>
 
 #### I'm Gokul G Menon, a passionate computer science aspirant currently pursuing my undergrad. I like working on all almost any coding projects and expanding my knowledge. I'm most excited by ML though. 
+
+<br>
 
 - 🔭 I’m currently working on ... Speech recognition, Computer vision and NLP problems
 - 🌱 I’m currently working on project involving large models
@@ -11,17 +15,24 @@
 - :muscle: Checkout my Resume [here](https://bit.ly/gokuls-resume) and Hugging face [here.](https://huggingface.co/gokul-g-menon)
 - 📫 Reach me at:  
 
+<br>
+
 <a href="https://www.linkedin.com/in/gokul-g-menon-612580203/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xtenzq" width="100px" /></a>
 <a href="https://www.instagram.com/_g_kul_" target="blank"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px" /></a>
 <a href="mailto:gokulgovindmenon@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="88px" /></a>
-<br>
-</br>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
+<br>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+<br>
+<div align="center">
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul-GMenon&theme=gruvbox)  
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-GMenon&theme=gruvbox)  
+
+ </div>
+ <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -35,3 +46,5 @@
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
